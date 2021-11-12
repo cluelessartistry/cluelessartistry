@@ -1,9 +1,9 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://www.canva.com/design/DAEvcWNJfIY/qkyYlP7lQBkOTihwr3AmIQ/edit" alt="cover" />
+<img width="100%" height = "250px" src="https://github.com/cluelessartistry/cluelessartistry/blob/main/MyGithub%20banner.png?raw=true" alt="cover" />
 </div>
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 
